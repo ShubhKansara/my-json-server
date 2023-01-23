@@ -1,6 +1,6 @@
 {
   "users": [
     { "id": 1, "email": "admin@admin.com", "password" : "Test@123","login":true, "message":"authorized" },
-    { "id": 2, "email": "superadmin@admin.com", "password":"Test@123", "login":false,"message":"unauthorized" },
+    { "id": 2, "email": "superadmin@admin.com", "password":"Test@123", "login":false,"message":"unauthorized" }
   ]
 }
